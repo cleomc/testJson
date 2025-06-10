@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#FF0000",
+        "fillColor": "#fc5656",
         "strokeColor": "#000000",
         "strokeWidth": 2
       },
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#00FF00",  
+        "fillColor": "#fc8b56",  
         "strokeColor": "#000000",
         "strokeWidth": 2
       },
@@ -45,7 +45,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#0000FF",
+        "fillColor": "#fcba56",
         "strokeColor": "#000000",
         "strokeWidth": 2
       },
